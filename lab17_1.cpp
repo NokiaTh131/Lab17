@@ -70,3 +70,4 @@ void findColSum(const double *dPtr,double *sum1,int N,int M) {
     	sum1[j] = sum;
     }
 }
+
